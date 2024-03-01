@@ -12,20 +12,20 @@
   "author": "brekertabumi@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.3.1",
     "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "^6.6.0",
     "eslint": "^8.14.0",
     "express": "^4.18.1",
-    "express-fileupload": "^1.4.0",
+    "express-fileupload": "^1.4.3",
     "ffmpeg": "^0.0.4",
     "jest": "^28.0.3",
     "jimp": "^0.16.1",
-    "link-preview-js": "^2.1.13",
+    "link-preview-js": "^3.0.5",
     "nodemon": "^2.0.16",
     "qrcode": "^1.5.1",
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
-    "sharp": "^0.29.3",
+    "sharp": "^0.32.6",
     "socket.io": "^4.5.0"
   }
 }
