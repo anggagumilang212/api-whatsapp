@@ -8,6 +8,14 @@
   ],
   "routes": [
     {
+      "src": "/scan",
+      "dest": "/scan"
+    },
+    {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
       "src": "/(.*)",
       "dest": "/"
     }
